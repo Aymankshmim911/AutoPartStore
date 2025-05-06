@@ -1,29 +1,4 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="AutoPart.aspx.cs" Inherits="AutoPartStore.AutoPart" %>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Aiman
-
-
-
-
-Aiman Hamad
-
-
-
 <!DOCTYPE html>
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
